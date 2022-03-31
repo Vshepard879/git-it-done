@@ -13,4 +13,4 @@ var getUserRepos = function(user)
     });
  };
 
-getUserRepos();
+getUserRepos("google");
